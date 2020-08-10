@@ -1,0 +1,22 @@
+{
+  "name": "vk-universal-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "engines": {
+    "node": "14.5.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "easyvk": "^2.7.41",
+    "http": "0.0.1-security",
+    "https": "^1.0.0",
+    "node-vk-bot-api": "^3.3.7",
+    "vk-io": "^4.0.0-rc.30"
+  }
+}
